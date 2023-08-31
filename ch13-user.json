@@ -1,7 +1,7 @@
 {
     "name": "John",
     "age": 50,
-    "is_married": False,
-    "profession": None,
+    "is_married": false,
+    "profession": null,
     "hobbies": ["travelling", "photography"]
 }

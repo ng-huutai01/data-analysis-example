@@ -1,0 +1,9 @@
+Python if __name__ == __main__ Explained with Code Examples
+https://www.freecodecamp.org/news/if-name-main-python-example/
+
+Supercharge Your Classes With Python super()
+https://realpython.com/python-super/
+
+The super().__init__() Method in Python Explained in 3 Minutes
+https://python.plainenglish.io/super-init-in-python-explained-in-3-minutes-b4e1d2f4d478
+
